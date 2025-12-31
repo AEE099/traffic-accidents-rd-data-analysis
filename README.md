@@ -66,11 +66,14 @@ Additional analyses and advanced models are still pending implementation.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## ⚙️ Requirements Install dependencies with: 
-```bash pip install -r requirements.txt
 ## 👤 Author
 **Alonzo Encarnacion**
 Data Science, ML & Medical Imaging
 📍 Dominican Republic
 
 Project: **MedDataRD – Data-driven**
+
+## ⚙️ Requirements Install dependencies with: 
+```bash pip install -r requirements.txt
+
+
