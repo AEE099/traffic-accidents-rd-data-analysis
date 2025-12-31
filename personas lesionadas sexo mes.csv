@@ -1,0 +1,169 @@
+Ano,Mes,Sexo,Cantidad_lesionados
+2017,Enero ,Hombres,710
+2017,Febrero ,Hombres,646
+2017,Marzo,Hombres,731
+2017,Abril,Hombres,745
+2017,Mayo,Hombres,698
+2017,Junio,Hombres,"1,002"
+2017,Julio,Hombres,443
+2017,Agosto,Hombres,637
+2017,Septiembre,Hombres,539
+2017,Octubre,Hombres,755
+2017,Noviembre,Hombres,640
+2017,Diciembre,Hombres,573
+2017,Enero ,Mujeres,195
+2017,Febrero ,Mujeres,152
+2017,Marzo,Mujeres,183
+2017,Abril,Mujeres,150
+2017,Mayo,Mujeres,138
+2017,Junio,Mujeres,243
+2017,Julio,Mujeres,109
+2017,Agosto,Mujeres,149
+2017,Septiembre,Mujeres,141
+2017,Octubre,Mujeres,178
+2017,Noviembre,Mujeres,182
+2017,Diciembre,Mujeres,153
+2019,Enero ,Hombres,"1,016"
+2019,Febrero ,Hombres,934
+2019,Marzo,Hombres,"1,134"
+2019,Abril,Hombres,"1,059"
+2019,Mayo,Hombres,"1,098"
+2019,Junio,Hombres,838
+2019,Julio,Hombres,"1,262"
+2019,Agosto,Hombres,"1,134"
+2019,Septiembre,Hombres,"1,036"
+2019,Octubre,Hombres,"1,356"
+2019,Noviembre,Hombres,"1,336"
+2019,Diciembre,Hombres,"1,379"
+2019,Enero ,Mujeres,267
+2019,Febrero ,Mujeres,232
+2019,Marzo,Mujeres,239
+2019,Abril,Mujeres,292
+2019,Mayo,Mujeres,212
+2019,Junio,Mujeres,213
+2019,Julio,Mujeres,302
+2019,Agosto,Mujeres,295
+2019,Septiembre,Mujeres,278
+2019,Octubre,Mujeres,308
+2019,Noviembre,Mujeres,312
+2019,Diciembre,Mujeres,302
+2020,Enero ,Hombres,"1,227"
+2020,Febrero ,Hombres,"1,225"
+2020,Marzo,Hombres,852
+2020,Abril,Hombres,566
+2020,Mayo,Hombres,822
+2020,Junio,Hombres,"1,011"
+2020,Julio,Hombres,"1,055"
+2020,Agosto,Hombres,"1,004"
+2020,Septiembre,Hombres,"1,052"
+2020,Octubre,Hombres,"1,152"
+2020,Noviembre,Hombres,"1,283"
+2020,Diciembre,Hombres,"1,244"
+2020,Enero ,Mujeres,307
+2020,Febrero ,Mujeres,275
+2020,Marzo,Mujeres,190
+2020,Abril,Mujeres,87
+2020,Mayo,Mujeres,151
+2020,Junio,Mujeres,181
+2020,Julio,Mujeres,212
+2020,Agosto,Mujeres,225
+2020,Septiembre,Mujeres,226
+2020,Octubre,Mujeres,294
+2020,Noviembre,Mujeres,328
+2020,Diciembre,Mujeres,298
+2021,Enero ,Hombres,"1,227"
+2021,Febrero ,Hombres,"1,225"
+2021,Marzo,Hombres,852
+2021,Abril,Hombres,566
+2021,Mayo,Hombres,822
+2021,Junio,Hombres,"1,011"
+2021,Julio,Hombres,"1,055"
+2021,Agosto,Hombres,"1,004"
+2021,Septiembre,Hombres,"1,052"
+2021,Octubre,Hombres,"1,152"
+2021,Noviembre,Hombres,"1,283"
+2021,Diciembre,Hombres,"1,244"
+2021,Enero ,Mujeres,266
+2021,Febrero ,Mujeres,251
+2021,Marzo,Mujeres,253
+2021,Abril,Mujeres,253
+2021,Mayo,Mujeres,225
+2021,Junio,Mujeres,243
+2021,Julio,Mujeres,211
+2021,Agosto,Mujeres,277
+2021,Septiembre,Mujeres,272
+2021,Octubre,Mujeres,255
+2021,Noviembre,Mujeres,257
+2021,Diciembre,Mujeres,312
+2022,Enero ,Hombres,"1,172"
+2022,Febrero ,Hombres,"1,242"
+2022,Marzo,Hombres,"1,256"
+2022,Abril,Hombres,"1,310"
+2022,Mayo,Hombres,"1,298"
+2022,Junio,Hombres,"1,147"
+2022,Julio,Hombres,"1,262"
+2022,Agosto,Hombres,"1,193"
+2022,Septiembre,Hombres,"1,071"
+2022,Octubre,Hombres,"1,240"
+2022,Noviembre,Hombres,"1,014"
+2022,Diciembre,Hombres,"1,313"
+2022,Enero ,Mujeres,281
+2022,Febrero ,Mujeres,320
+2022,Marzo,Mujeres,251
+2022,Abril,Mujeres,356
+2022,Mayo,Mujeres,302
+2022,Junio,Mujeres,278
+2022,Julio,Mujeres,256
+2022,Agosto,Mujeres,234
+2022,Septiembre,Mujeres,201
+2022,Octubre,Mujeres,299
+2022,Noviembre,Mujeres,202
+2022,Diciembre,Mujeres,266
+2023,Enero ,Hombres,"1,164"
+2023,Febrero ,Hombres,"1,047"
+2023,Marzo,Hombres,"1,073"
+2023,Abril,Hombres,"1,206"
+2023,Mayo,Hombres,"1,087"
+2023,Junio,Hombres,"1,145"
+2023,Julio,Hombres,"1,291"
+2023,Agosto,Hombres,"1,179"
+2023,Septiembre,Hombres,"1,176"
+2023,Octubre,Hombres,"1,178"
+2023,Noviembre,Hombres,972
+2023,Diciembre,Hombres,"1,448"
+2023,Enero ,Mujeres,284
+2023,Febrero ,Mujeres,264
+2023,Marzo,Mujeres,252
+2023,Abril,Mujeres,252
+2023,Mayo,Mujeres,267
+2023,Junio,Mujeres,272
+2023,Julio,Mujeres,306
+2023,Agosto,Mujeres,303
+2023,Septiembre,Mujeres,256
+2023,Octubre,Mujeres,272
+2023,Noviembre,Mujeres,253
+2023,Diciembre,Mujeres,329
+2024,Enero ,Hombres,"1,436"
+2024,Febrero ,Hombres,"1,287"
+2024,Marzo,Hombres,"1,353"
+2024,Abril,Hombres,"1,222"
+2024,Mayo,Hombres,"1,195"
+2024,Junio,Hombres,"1,199"
+2024,Julio,Hombres,"1,039"
+2024,Agosto,Hombres,"1,294"
+2024,Septiembre,Hombres,"1,167"
+2024,Octubre,Hombres,"1,141"
+2024,Noviembre,Hombres,"1,098"
+2024,Diciembre,Hombres,"1,358"
+2024,Enero ,Mujeres,318
+2024,Febrero ,Mujeres,309
+2024,Marzo,Mujeres,333
+2024,Abril,Mujeres,309
+2024,Mayo,Mujeres,302
+2024,Junio,Mujeres,283
+2024,Julio,Mujeres,285
+2024,Agosto,Mujeres,348
+2024,Septiembre,Mujeres,327
+2024,Octubre,Mujeres,334
+2024,Noviembre,Mujeres,304
+2024,Diciembre,Mujeres,387
