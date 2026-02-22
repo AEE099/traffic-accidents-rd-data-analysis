@@ -1,0 +1,732 @@
+Ano,Region ,Hombre,Mujer
+2007,Región Ozama,385,61
+2007,Distrito Nacional,99,18
+2007,Santo Domingo,286,43
+2007,Región Cibao Norte,225,22
+2007,Espaillat,45,3
+2007,Puerto Plata,74,8
+2007,Santiago,106,11
+2007,Región Cibao Sur,138,41
+2007,La Vega,50,21
+2007,Sánchez Ramírez,15,4
+2007,Monseñor Nouel,73,16
+2007,Región Cibao Nordeste,118,18
+2007,Duarte,50,11
+2007,María Trinidad Sánchez,24,5
+2007,Hermanas Mirabal,5,0
+2007,Samaná,39,2
+2007,Región Cibao Noroeste,67,10
+2007,Dajabón,14,2
+2007,Monte Cristi,11,4
+2007,Santiago Rodríguez,11,0
+2007,Valverde,31,4
+2007,Región Valdesia,172,25
+2007,Peravia,40,5
+2007,San Cristóbal,128,20
+2007,San José de Ocoa,4,0
+2007,Región Enriquillo,60,10
+2007,Baoruco,11,3
+2007,Barahona,34,7
+2007,Independencia,13,0
+2007,Pedernales,2,0
+2007,Región El Valle,66,13
+2007,Azua,31,4
+2007,Elías Piña,5,0
+2007,San Juan,30,9
+2007,Región Yuma,173,20
+2007,El Seibo,15,2
+2007,La Altagracia,119,12
+2007,La Romana,39,6
+2007,Región Higuamo,106,17
+2007,San Pedro de Macorís,52,8
+2007,Monte Plata,35,6
+2007,Hato Mayor,19,3
+2007,No declarado ,0,0
+2008,Región Ozama,433,62
+2008,Distrito Nacional,109,14
+2008,Santo Domingo,324,48
+2008,Región Cibao Norte,208,28
+2008,Espaillat,35,5
+2008,Puerto Plata,78,10
+2008,Santiago,95,13
+2008,Región Cibao Sur,181,29
+2008,La Vega,75,10
+2008,Sánchez Ramírez,39,3
+2008,Monseñor Nouel,67,16
+2008,Región Cibao Nordeste,113,22
+2008,Duarte,54,9
+2008,María Trinidad Sánchez,23,7
+2008,Hermanas Mirabal,8,0
+2008,Samaná,28,6
+2008,Región Cibao Noroeste,53,9
+2008,Dajabón,15,4
+2008,Monte Cristi,11,1
+2008,Santiago Rodríguez,7,1
+2008,Valverde,20,3
+2008,Región Valdesia,201,29
+2008,Peravia,41,8
+2008,San Cristóbal,153,21
+2008,San José de Ocoa,7,0
+2008,Región Enriquillo,51,4
+2008,Baoruco,10,2
+2008,Barahona,30,0
+2008,Independencia,7,2
+2008,Pedernales,4,0
+2008,Región El Valle,77,10
+2008,Azua,40,10
+2008,Elías Piña,5,0
+2008,San Juan,32,0
+2008,Región Yuma,166,25
+2008,El Seibo,14,1
+2008,La Altagracia,117,14
+2008,La Romana,35,10
+2008,Región Higuamo,127,18
+2008,San Pedro de Macorís,72,10
+2008,Monte Plata,40,6
+2008,Hato Mayor,15,2
+2008,No declarado ,0,0
+2009,Región Ozama,401,54
+2009,Distrito Nacional,103,11
+2009,Santo Domingo,298,43
+2009,Región Cibao Norte,254,39
+2009,Espaillat,44,6
+2009,Puerto Plata,74,16
+2009,Santiago,136,17
+2009,Región Cibao Sur,208,25
+2009,La Vega,133,15
+2009,Sánchez Ramírez,29,4
+2009,Monseñor Nouel,46,6
+2009,Región Cibao Nordeste,122,12
+2009,Duarte,60,0
+2009,María Trinidad Sánchez,27,8
+2009,Hermanas Mirabal,4,3
+2009,Samaná,31,1
+2009,Región Cibao Noroeste,67,8
+2009,Dajabón,12,0
+2009,Monte Cristi,15,2
+2009,Santiago Rodríguez,6,0
+2009,Valverde,34,6
+2009,Región Valdesia,204,24
+2009,Peravia,38,5
+2009,San Cristóbal,159,18
+2009,San José de Ocoa,7,1
+2009,Región Enriquillo,53,6
+2009,Baoruco,12,1
+2009,Barahona,28,3
+2009,Independencia,10,1
+2009,Pedernales,3,1
+2009,Región El Valle,106,18
+2009,Azua,51,5
+2009,Elías Piña,6,2
+2009,San Juan,49,11
+2009,Región Yuma,152,8
+2009,El Seibo,24,1
+2009,La Altagracia,88,6
+2009,La Romana,40,1
+2009,Región Higuamo,90,22
+2009,San Pedro de Macorís,46,9
+2009,Monte Plata,36,13
+2009,Hato Mayor,8,0
+2009,No declarado ,0,0
+2010,Región Ozama,431,65
+2010,Distrito Nacional,93,10
+2010,Santo Domingo,338,55
+2010,Región Cibao Norte,254,39
+2010,Espaillat,46,4
+2010,Puerto Plata,71,7
+2010,Santiago,137,28
+2010,Región Cibao Sur,240,36
+2010,La Vega,145,21
+2010,Sánchez Ramírez,46,3
+2010,Monseñor Nouel,49,12
+2010,Región Cibao Nordeste,166,24
+2010,Duarte,79,11
+2010,María Trinidad Sánchez,42,6
+2010,Hermanas Mirabal,17,0
+2010,Samaná,28,7
+2010,Región Cibao Noroeste,85,17
+2010,Dajabón,6,3
+2010,Monte Cristi,36,6
+2010,Santiago Rodríguez,6,1
+2010,Valverde,37,7
+2010,Región Valdesia,214,31
+2010,Peravia,50,4
+2010,San Cristóbal,156,22
+2010,San José de Ocoa,8,5
+2010,Región Enriquillo,89,9
+2010,Baoruco,22,1
+2010,Barahona,56,7
+2010,Independencia,7,1
+2010,Pedernales,4,0
+2010,Región El Valle,136,17
+2010,Azua,53,3
+2010,Elías Piña,12,2
+2010,San Juan,71,12
+2010,Región Yuma,135,19
+2010,El Seibo,16,5
+2010,La Altagracia,92,11
+2010,La Romana,27,3
+2010,Región Higuamo,112,13
+2010,San Pedro de Macorís,48,8
+2010,Monte Plata,49,2
+2010,Hato Mayor,15,3
+2010,No declarado ,0,0
+2011,Región Ozama,344,74
+2011,Distrito Nacional,83,16
+2011,Santo Domingo,261,58
+2011,Región Cibao Norte,205,32
+2011,Espaillat,50,6
+2011,Puerto Plata,76,4
+2011,Santiago,79,22
+2011,Región Cibao Sur,197,27
+2011,La Vega,120,16
+2011,Sánchez Ramírez,29,3
+2011,Monseñor Nouel,48,8
+2011,Región Cibao Nordeste,147,21
+2011,Duarte,56,10
+2011,María Trinidad Sánchez,35,5
+2011,Hermanas Mirabal,29,3
+2011,Samaná,27,3
+2011,Región Cibao Noroeste,91,5
+2011,Dajabón,10,0
+2011,Monte Cristi,26,3
+2011,Santiago Rodríguez,7,0
+2011,Valverde,48,2
+2011,Región Valdesia,198,25
+2011,Peravia,54,0
+2011,San Cristóbal,136,24
+2011,San José de Ocoa,8,1
+2011,Región Enriquillo,62,8
+2011,Baoruco,12,2
+2011,Barahona,33,5
+2011,Independencia,9,1
+2011,Pedernales,8,0
+2011,Región El Valle,108,22
+2011,Azua,50,14
+2011,Elías Piña,10,1
+2011,San Juan,48,7
+2011,Región Yuma,133,19
+2011,El Seibo,4,0
+2011,La Altagracia,88,17
+2011,La Romana,41,2
+2011,Región Higuamo,99,16
+2011,San Pedro de Macorís,65,11
+2011,Monte Plata,25,4
+2011,Hato Mayor,9,1
+2011,No declarado ,0,0
+2012,Región Ozama,352,67
+2012,Distrito Nacional,88,18
+2012,Santo Domingo,264,49
+2012,Región Cibao Norte,207,30
+2012,Espaillat,24,1
+2012,Puerto Plata,68,7
+2012,Santiago,115,22
+2012,Región Cibao Sur,179,23
+2012,La Vega,106,9
+2012,Sánchez Ramírez,28,3
+2012,Monseñor Nouel,45,11
+2012,Región Cibao Nordeste,164,21
+2012,Duarte,82,12
+2012,María Trinidad Sánchez,41,3
+2012,Hermanas Mirabal,15,4
+2012,Samaná,26,2
+2012,Región Cibao Noroeste,95,16
+2012,Dajabón,15,4
+2012,Monte Cristi,26,1
+2012,Santiago Rodríguez,12,1
+2012,Valverde,42,10
+2012,Región Valdesia,127,21
+2012,Peravia,31,6
+2012,San Cristóbal,88,12
+2012,San José de Ocoa,8,3
+2012,Región Enriquillo,72,9
+2012,Baoruco,24,1
+2012,Barahona,41,6
+2012,Independencia,5,1
+2012,Pedernales,2,1
+2012,Región El Valle,99,18
+2012,Azua,41,12
+2012,Elías Piña,4,0
+2012,San Juan,54,6
+2012,Región Yuma,132,16
+2012,El Seibo,12,2
+2012,La Altagracia,89,14
+2012,La Romana,31,0
+2012,Región Higuamo,98,22
+2012,San Pedro de Macorís,53,12
+2012,Monte Plata,31,6
+2012,Hato Mayor,14,4
+2012,No declarado ,0,0
+2013,Región Ozama,364,62
+2013,Distrito Nacional,96,19
+2013,Santo Domingo,268,43
+2013,Región Cibao Norte,255,43
+2013,Espaillat,51,8
+2013,Puerto Plata,90,14
+2013,Santiago,114,21
+2013,Región Cibao Sur,197,17
+2013,La Vega,109,10
+2013,Sánchez Ramírez,53,2
+2013,Monseñor Nouel,35,5
+2013,Región Cibao Nordeste,169,18
+2013,Duarte,63,5
+2013,María Trinidad Sánchez,54,10
+2013,Hermanas Mirabal,25,2
+2013,Samaná,27,1
+2013,Región Cibao Noroeste,110,11
+2013,Dajabón,16,1
+2013,Monte Cristi,39,3
+2013,Santiago Rodríguez,9,2
+2013,Valverde,46,5
+2013,Región Valdesia,159,16
+2013,Peravia,37,5
+2013,San Cristóbal,114,10
+2013,San José de Ocoa,8,1
+2013,Región Enriquillo,61,8
+2013,Baoruco,18,2
+2013,Barahona,32,3
+2013,Independencia,6,0
+2013,Pedernales,5,3
+2013,Región El Valle,97,14
+2013,Azua,48,7
+2013,Elías Piña,6,0
+2013,San Juan,43,7
+2013,Región Yuma,152,19
+2013,El Seibo,10,4
+2013,La Altagracia,83,13
+2013,La Romana,59,2
+2013,Región Higuamo,107,13
+2013,San Pedro de Macorís,65,7
+2013,Monte Plata,28,6
+2013,Hato Mayor,14,0
+2013,No declarado ,0,0
+2014,Región Ozama,301,54
+2014,Distrito Nacional,99,13
+2014,Santo Domingo,202,41
+2014,Región Cibao Norte,269,43
+2014,Espaillat,64,8
+2014,Puerto Plata,82,12
+2014,Santiago,123,23
+2014,Región Cibao Sur,198,24
+2014,La Vega,121,14
+2014,Sánchez Ramírez,26,2
+2014,Monseñor Nouel,51,8
+2014,Región Cibao Nordeste,170,19
+2014,Duarte,57,7
+2014,María Trinidad Sánchez,50,8
+2014,Hermanas Mirabal,31,2
+2014,Samaná,32,2
+2014,Región Cibao Noroeste,108,10
+2014,Dajabón,21,0
+2014,Monte Cristi,36,3
+2014,Santiago Rodríguez,11,2
+2014,Valverde,40,5
+2014,Región Valdesia,168,24
+2014,Peravia,42,5
+2014,San Cristóbal,115,17
+2014,San José de Ocoa,11,2
+2014,Región Enriquillo,72,7
+2014,Baoruco,18,3
+2014,Barahona,36,3
+2014,Independencia,9,1
+2014,Pedernales,9,0
+2014,Región El Valle,99,19
+2014,Azua,43,10
+2014,Elías Piña,4,1
+2014,San Juan,52,8
+2014,Región Yuma,141,23
+2014,El Seibo,18,1
+2014,La Altagracia,94,16
+2014,La Romana,29,6
+2014,Región Higuamo,85,21
+2014,San Pedro de Macorís,54,13
+2014,Monte Plata,16,5
+2014,Hato Mayor,15,3
+2014,No declarado ,0,0
+2015,Región Ozama,261,38
+2015,Distrito Nacional,56,8
+2015,Santo Domingo,205,30
+2015,Región Cibao Norte,309,40
+2015,Espaillat,79,7
+2015,Puerto Plata,82,17
+2015,Santiago,148,16
+2015,Región Cibao Sur,223,30
+2015,La Vega,131,15
+2015,Sánchez Ramírez,33,5
+2015,Monseñor Nouel,59,10
+2015,Región Cibao Nordeste,197,21
+2015,Duarte,95,9
+2015,María Trinidad Sánchez,38,3
+2015,Hermanas Mirabal,39,5
+2015,Samaná,25,4
+2015,Región Cibao Noroeste,110,22
+2015,Dajabón,25,6
+2015,Monte Cristi,25,1
+2015,Santiago Rodríguez,14,1
+2015,Valverde,46,14
+2015,Región Valdesia,136,16
+2015,Peravia,41,4
+2015,San Cristóbal,87,11
+2015,San José de Ocoa,8,1
+2015,Región Enriquillo,70,13
+2015,Baoruco,23,7
+2015,Barahona,33,4
+2015,Independencia,12,1
+2015,Pedernales,2,1
+2015,Región El Valle,121,16
+2015,Azua,53,8
+2015,Elías Piña,1,0
+2015,San Juan,67,8
+2015,Región Yuma,168,22
+2015,El Seibo,18,1
+2015,La Altagracia,107,18
+2015,La Romana,43,3
+2015,Región Higuamo,108,25
+2015,San Pedro de Macorís,62,8
+2015,Monte Plata,31,13
+2015,Hato Mayor,15,4
+2015,No declarado ,0,0
+2016,Región Ozama,288,34
+2016,Distrito Nacional,60,8
+2016,Santo Domingo,228,26
+2016,Región Cibao Norte,281,29
+2016,Espaillat,68,7
+2016,Puerto Plata,79,9
+2016,Santiago,134,13
+2016,Región Cibao Sur,229,26
+2016,La Vega,137,16
+2016,Sánchez Ramírez,43,5
+2016,Monseñor Nouel,49,5
+2016,Región Cibao Nordeste,199,34
+2016,Duarte,102,14
+2016,María Trinidad Sánchez,46,6
+2016,Hermanas Mirabal,17,1
+2016,Samaná,34,13
+2016,Región Cibao Noroeste,118,8
+2016,Dajabón,27,1
+2016,Monte Cristi,36,3
+2016,Santiago Rodríguez,5,2
+2016,Valverde,50,2
+2016,Región Valdesia,177,35
+2016,Peravia,66,14
+2016,San Cristóbal,102,19
+2016,San José de Ocoa,9,2
+2016,Región Enriquillo,63,9
+2016,Baoruco,20,1
+2016,Barahona,28,6
+2016,Independencia,9,2
+2016,Pedernales,6,0
+2016,Región El Valle,119,6
+2016,Azua,60,4
+2016,Elías Piña,7,0
+2016,San Juan,52,2
+2016,Región Yuma,178,21
+2016,El Seibo,19,0
+2016,La Altagracia,114,13
+2016,La Romana,45,8
+2016,Región Higuamo,120,17
+2016,San Pedro de Macorís,60,11
+2016,Monte Plata,41,4
+2016,Hato Mayor,19,2
+2016,No declarado ,0,0
+2017,Región Ozama,237,34
+2017,Distrito Nacional,51,10
+2017,Santo Domingo,186,24
+2017,Región Cibao Norte,200,36
+2017,Espaillat,52,9
+2017,Puerto Plata,48,9
+2017,Santiago,100,18
+2017,Región Cibao Sur,206,12
+2017,La Vega,114,8
+2017,Sánchez Ramírez,27,0
+2017,Monseñor Nouel,65,4
+2017,Región Cibao Nordeste,169,19
+2017,Duarte,67,7
+2017,María Trinidad Sánchez,36,3
+2017,Hermanas Mirabal,34,6
+2017,Samaná,32,3
+2017,Región Cibao Noroeste,66,4
+2017,Dajabón,4,1
+2017,Monte Cristi,22,2
+2017,Santiago Rodríguez,6,0
+2017,Valverde,34,1
+2017,Región Valdesia,158,21
+2017,Peravia,40,10
+2017,San Cristóbal,105,10
+2017,San José de Ocoa,13,1
+2017,Región Enriquillo,39,8
+2017,Baoruco,15,1
+2017,Barahona,16,5
+2017,Independencia,5,1
+2017,Pedernales,3,1
+2017,Región El Valle,112,17
+2017,Azua,55,6
+2017,Elías Piña,8,1
+2017,San Juan,49,10
+2017,Región Yuma,128,14
+2017,El Seibo,13,2
+2017,La Altagracia,77,7
+2017,La Romana,38,5
+2017,Región Higuamo,88,14
+2017,San Pedro de Macorís,45,9
+2017,Monte Plata,31,4
+2017,Hato Mayor,12,1
+2017,No declarado ,0,0
+2018,Región Ozama,261,19
+2018,Distrito Nacional,81,2
+2018,Santo Domingo,180,17
+2018,Región Cibao Norte,193,34
+2018,Espaillat,28,6
+2018,Puerto Plata,31,8
+2018,Santiago,134,20
+2018,Región Cibao Sur,134,27
+2018,La Vega,85,12
+2018,Sánchez Ramírez,11,0
+2018,Monseñor Nouel,38,15
+2018,Región Cibao Nordeste,100,16
+2018,Duarte,39,5
+2018,María Trinidad Sánchez,24,7
+2018,Hermanas Mirabal,12,2
+2018,Samaná,25,2
+2018,Región Cibao Noroeste,63,13
+2018,Dajabón,4,0
+2018,Monte Cristi,20,7
+2018,Santiago Rodríguez,5,2
+2018,Valverde,34,4
+2018,Región Valdesia,187,19
+2018,Peravia,47,4
+2018,San Cristóbal,130,15
+2018,San José de Ocoa,10,0
+2018,Región Enriquillo,30,5
+2018,Baoruco,11,2
+2018,Barahona,14,1
+2018,Independencia,4,1
+2018,Pedernales,1,1
+2018,Región El Valle,116,17
+2018,Azua,43,8
+2018,Elías Piña,6,1
+2018,San Juan,67,8
+2018,Región Yuma,104,13
+2018,El Seibo,29,2
+2018,La Altagracia,73,11
+2018,La Romana,2,0
+2018,Región Higuamo,65,11
+2018,San Pedro de Macorís,21,8
+2018,Monte Plata,34,3
+2018,Hato Mayor,10,0
+2018,No declarado ,0,0
+2019,Región Ozama,336,52
+2019,Distrito Nacional,75,15
+2019,Santo Domingo,261,37
+2019,Región Cibao Norte,295,37
+2019,Espaillat,50,12
+2019,Puerto Plata,98,8
+2019,Santiago,147,17
+2019,Región Cibao Sur,244,37
+2019,La Vega,149,18
+2019,Sánchez Ramírez,37,4
+2019,Monseñor Nouel,58,15
+2019,Región Cibao Nordeste,165,23
+2019,Duarte,55,8
+2019,María Trinidad Sánchez,56,8
+2019,Hermanas Mirabal,22,1
+2019,Samaná,32,6
+2019,Región Cibao Noroeste,109,14
+2019,Dajabón,16,0
+2019,Monte Cristi,27,3
+2019,Santiago Rodríguez,19,3
+2019,Valverde,47,8
+2019,Región Valdesia,197,29
+2019,Peravia,48,9
+2019,San Cristóbal,127,19
+2019,San José de Ocoa,22,1
+2019,Región Enriquillo,71,9
+2019,Baoruco,16,3
+2019,Barahona,40,4
+2019,Independencia,12,0
+2019,Pedernales,3,2
+2019,Región El Valle,130,21
+2019,Azua,68,12
+2019,Elías Piña,7,0
+2019,San Juan,55,9
+2019,Región Yuma,186,14
+2019,El Seibo,22,2
+2019,La Altagracia,130,10
+2019,La Romana,34,2
+2019,Región Higuamo,112,12
+2019,San Pedro de Macorís,63,6
+2019,Monte Plata,38,3
+2019,Hato Mayor,11,3
+2019,No declarado ,0,0
+2020,Región Ozama,258,51
+2020,Distrito Nacional,66,9
+2020,Santo Domingo,192,42
+2020,Región Cibao Norte,194,28
+2020,Espaillat,31,7
+2020,Puerto Plata,56,8
+2020,Santiago,107,13
+2020,Región Cibao Sur,187,29
+2020,La Vega,111,15
+2020,Sánchez Ramírez,26,7
+2020,Monseñor Nouel,50,7
+2020,Región Cibao Nordeste,147,18
+2020,Duarte,50,6
+2020,María Trinidad Sánchez,28,0
+2020,Hermanas Mirabal,26,3
+2020,Samaná,43,9
+2020,Región Cibao Noroeste,103,14
+2020,Dajabón,21,1
+2020,Monte Cristi,32,7
+2020,Santiago Rodríguez,15,2
+2020,Valverde,35,4
+2020,Región Valdesia,194,44
+2020,Peravia,48,11
+2020,San Cristóbal,133,31
+2020,San José de Ocoa,13,2
+2020,Región Enriquillo,59,6
+2020,Baoruco,29,1
+2020,Barahona,19,2
+2020,Independencia,7,2
+2020,Pedernales,4,1
+2020,Región El Valle,99,13
+2020,Azua,60,7
+2020,Elías Piña,9,2
+2020,San Juan,30,4
+2020,Región Yuma,124,19
+2020,El Seibo,13,3
+2020,La Altagracia,75,11
+2020,La Romana,36,5
+2020,Región Higuamo,115,13
+2020,San Pedro de Macorís,44,5
+2020,Monte Plata,55,6
+2020,Hato Mayor,16,2
+2020,No declarado ,0,0
+2021,Región Ozama,263,41
+2021,Distrito Nacional,74,14
+2021,Santo Domingo,189,27
+2021,Región Cibao Norte,258,30
+2021,Espaillat,53,5
+2021,Puerto Plata,73,5
+2021,Santiago,132,20
+2021,Región Cibao Sur,206,31
+2021,La Vega,111,14
+2021,Sánchez Ramírez,36,2
+2021,Monseñor Nouel,59,15
+2021,Región Cibao Nordeste,142,12
+2021,Duarte,48,4
+2021,María Trinidad Sánchez,41,3
+2021,Hermanas Mirabal,27,1
+2021,Samaná,26,4
+2021,Región Cibao Noroeste,127,13
+2021,Dajabón,22,2
+2021,Monte Cristi,49,3
+2021,Santiago Rodríguez,16,3
+2021,Valverde,40,5
+2021,Región Valdesia,167,17
+2021,Peravia,53,8
+2021,San Cristóbal,99,9
+2021,San José de Ocoa,15,0
+2021,Región Enriquillo,59,15
+2021,Baoruco,17,3
+2021,Barahona,29,7
+2021,Independencia,9,3
+2021,Pedernales,4,2
+2021,Región El Valle,121,10
+2021,Azua,58,8
+2021,Elías Piña,7,1
+2021,San Juan,56,1
+2021,Región Yuma,177,25
+2021,El Seibo,23,4
+2021,La Altagracia,110,13
+2021,La Romana,44,8
+2021,Región Higuamo,127,17
+2021,San Pedro de Macorís,56,15
+2021,Monte Plata,56,1
+2021,Hato Mayor,15,1
+2021,No declarado ,0,0
+2022,Región Ozama,283,40
+2022,Distrito Nacional,78,11
+2022,Santo Domingo,205,29
+2022,Región Cibao Norte,223,20
+2022,Espaillat,49,3
+2022,Puerto Plata,65,6
+2022,Santiago,109,11
+2022,Región Cibao Sur,185,28
+2022,La Vega,104,18
+2022,Sánchez Ramírez,24,5
+2022,Monseñor Nouel,57,5
+2022,Región Cibao Nordeste,160,15
+2022,Duarte,56,4
+2022,María Trinidad Sánchez,42,4
+2022,Hermanas Mirabal,18,2
+2022,Samaná,44,5
+2022,Región Cibao Noroeste,95,13
+2022,Dajabón,18,2
+2022,Monte Cristi,35,3
+2022,Santiago Rodríguez,16,4
+2022,Valverde,26,4
+2022,Región Valdesia,177,21
+2022,Peravia,62,5
+2022,San Cristóbal,102,14
+2022,San José de Ocoa,13,2
+2022,Región Enriquillo,57,6
+2022,Baoruco,14,2
+2022,Barahona,28,4
+2022,Independencia,9,0
+2022,Pedernales,6,0
+2022,Región El Valle,122,18
+2022,Azua,69,6
+2022,Elías Piña,11,4
+2022,San Juan,42,8
+2022,Región Yuma,162,29
+2022,El Seibo,17,4
+2022,La Altagracia,104,17
+2022,La Romana,41,8
+2022,Región Higuamo,114,16
+2022,San Pedro de Macorís,54,9
+2022,Monte Plata,49,4
+2022,Hato Mayor,11,3
+2022,No declarado ,0,0
+2023,Región Ozama,293,51
+2023,Distrito Nacional,81,12
+2023,Santo Domingo,212,39
+2023,Región Cibao Norte,235,39
+2023,Espaillat,54,5
+2023,Puerto Plata,84,11
+2023,Santiago,97,23
+2023,Región Cibao Sur,189,36
+2023,La Vega,108,23
+2023,Sánchez Ramírez,27,4
+2023,Monseñor Nouel,54,9
+2023,Región Cibao Nordeste,146,17
+2023,Duarte,44,6
+2023,María Trinidad Sánchez,47,6
+2023,Hermanas Mirabal,22,2
+2023,Samaná,33,3
+2023,Región Cibao Noroeste,105,17
+2023,Dajabón,20,1
+2023,Monte Cristi,31,7
+2023,Santiago Rodríguez,13,2
+2023,Valverde,41,7
+2023,Región Valdesia,220,29
+2023,Peravia,59,9
+2023,San Cristóbal,144,17
+2023,San José de Ocoa,17,3
+2023,Región Enriquillo,78,10
+2023,Baoruco,25,2
+2023,Barahona,28,3
+2023,Independencia,12,5
+2023,Pedernales,13,0
+2023,Región El Valle,113,15
+2023,Azua,52,6
+2023,Elías Piña,8,1
+2023,San Juan,53,8
+2023,Región Yuma,196,31
+2023,El Seibo,23,0
+2023,La Altagracia,124,27
+2023,La Romana,49,4
+2023,Región Higuamo,99,14
+2023,San Pedro de Macorís,45,7
+2023,Monte Plata,40,4
+2023,Hato Mayor,14,3
+2023,No declarado ,0,0
